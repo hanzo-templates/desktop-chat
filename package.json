@@ -1,7 +1,7 @@
 {
   "name": "desktop-chat",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "description": "Desktop AI client \u2014 streaming SSE to any OpenAI-compatible gateway, threads and API key kept out of web storage.",
   "license": "MIT",
