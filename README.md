@@ -9,6 +9,8 @@ Linux) and a web build. Fork it, `npm i`, ship.
 - Installers: <https://github.com/hanzo-templates/desktop-chat/releases/latest>
 - Source: <https://github.com/hanzo-templates/desktop-chat>
 
+![desktop-chat](./public/preview.png)
+
 ## Why this exists
 
 A native app cannot be iframed, so the gallery preview is a *real* build of the
